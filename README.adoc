@@ -1,1 +1,5 @@
-Notatki do JP i SP
+##Notatki do JP i SP
+
+### notatki do SP
+
+bash 
