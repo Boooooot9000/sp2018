@@ -5,3 +5,9 @@
 https://github.com/jlevy/the-art-of-command-line
 
 testowanie xD
+
+git init
+git remote
+git add README.adoc
+git commit -m "yes"
+git push
