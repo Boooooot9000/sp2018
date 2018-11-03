@@ -13,3 +13,5 @@ git commit -m "yes"
 git push
 
 instalowanie FiraCode
+
+testowanie 2
