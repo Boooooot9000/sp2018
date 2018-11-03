@@ -1,4 +1,4 @@
-## Notatki do JP i SP
+﻿## Notatki do JP i SP
 
 ### Bash 
 
@@ -11,3 +11,5 @@ git remote
 git add README.adoc
 git commit -m "yes"
 git push
+
+instalowanie FiraCode
