@@ -16,5 +16,6 @@ git push
 ```
 
 instalowanie FiraCode
+https://exercism.io/
 
 
