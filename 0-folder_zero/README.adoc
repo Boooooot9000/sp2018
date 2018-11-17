@@ -9,7 +9,7 @@ https://github.com/jlevy/the-art-of-command-line
 git init
 git remote
 git clone
-git add README.adoc
+git add .
 git commit -m "yes"
 git push
 ```
